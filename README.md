@@ -1,39 +1,24 @@
-# Taylor Swift — Currículum Vitae 🎤
+Taylor Swift — Curriculum Vitae
 
-Proyecto de un **Currículum Vitae digital de Taylor Swift**, realizado con HTML5 y CSS3.
+HTML eta CSS erabiliz Taylor Swiften Curriculum Vitae digital bat egin dut.
 
-El objetivo es crear un CV visual, organizado y adaptado a diferentes tamaños de pantalla, utilizando diferentes recursos de HTML y CSS.
+Proiektuaren helburua CV bat modu ordenatuan eta bisualean sortzea izan da. Gainera, webgunea pantaila desberdinetara egokitzea bilatu dut.
 
-## 📌 Sobre el proyecto
+Proiektuari buruz
 
-El CV contiene información sobre la trayectoria artística de Taylor Swift, incluyendo:
+CVan Taylor Swiften inguruko informazioa agertzen da, hala nola bere datu pertsonalak, gaitasunak, hizkuntzak, esperientzia profesionala eta ibilbide artistikoa.
 
-- Datos personales
-- Competencias
-- Técnicas musicales
-- Idiomas
-- Perfil profesional
-- Experiencia profesional
-- Formación y desarrollo artístico
-- Logros destacados
-- Álbumes y eras
-- Etapas destacadas de su carrera
+Horrez gain, bere albumak, lorpen batzuk eta bere ibilbideko etapa desberdinak ere agertzen dira.
 
-## 🛠️ Tecnologías utilizadas
+Erabilitako teknologiak
 
-- **HTML5** → Para crear la estructura y el contenido del CV.
-- **CSS3** → Para el diseño y la apariencia visual.
-- **CSS Grid** → Para organizar las diferentes partes del CV.
-- **Flexbox** → Para distribuir y alinear elementos.
-- **Media Queries** → Para adaptar el diseño a diferentes tamaños de pantalla.
-- **Variables CSS** → Para organizar colores, tamaños y espacios.
-- **Gradientes** → Para crear diferentes fondos y efectos visuales.
+Proiektua egiteko HTML5 eta CSS3 erabili ditut. HTMLarekin CVaren egitura eta edukia sortu dut, eta CSSarekin diseinua eta itxura landu ditut.
 
-## 📁 Estructura del proyecto
+CSSan Grid eta Flexbox erabili ditut elementuak antolatzeko. Media Queries ere erabili ditut webgunea pantaila txikiagoetara egokitzeko. Koloreak eta tamainak antolatzeko CSS aldagaiak erabili ditut, eta gradienteak ere erabili ditut diseinuan.
 
-```text
+Proiektuaren egitura
 taylor-swift-cv/
-│
+
 ├── images/
 │   ├── stage-background.svg
 │   └── taylor-swift.jpg
